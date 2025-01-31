@@ -21,7 +21,7 @@ Storage =
       JSON.parse item
     else null
 
-  has: ( key ) -> ( Storage.get key  )?
+  has: ( key ) -> ( localStorage.get key  )?
 
   set: ( key, value ) ->
     if value?
