@@ -1,15 +1,15 @@
 {
-  "name": "@dashkite/addison",
+  "name": "@dashkite/storage",
   "version": "0.0.0",
   "description": "Simple `LocalStorage` wrapper for JSON data",
   "keywords": [],
-  "homepage": "https://github.com/dashkite/addison#readme",
+  "homepage": "https://github.com/dashkite/storage#readme",
   "bugs": {
-    "url": "https://github.com/dashkite/addison/issues"
+    "url": "https://github.com/dashkite/storage/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dashkite/addison.git"
+    "url": "git+https://github.com/dashkite/storage.git"
   },
   "license": "SEE LICENSE IN LICENSE.md",
   "contributors": [

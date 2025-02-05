@@ -4,7 +4,7 @@ import print from "@dashkite/amen-console"
 
 do ->
 
-  print await test "Addison", [
+  print await test "Storage", [
 
     test "todo"
 

@@ -1,4 +1,4 @@
-# Addison
+# Storage
 
 * Simple `LocalStorage` wrapper for JSON data *
 
