@@ -1,4 +1,3 @@
-# TODO persist in node?
 
 globalThis.localStorage ?= do ->
 
