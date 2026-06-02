@@ -1,6 +1,6 @@
 {
   "name": "@dashkite/storage",
-  "version": "0.9.22",
+  "version": "0.9.23",
   "description": "Simple `LocalStorage` wrapper for JSON data",
   "keywords": [],
   "homepage": "https://github.com/dashkite/storage#readme",
